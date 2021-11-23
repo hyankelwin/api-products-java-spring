@@ -1,10 +1,10 @@
-package com.edu.unifacef.meuprimeiroservicorest;
+package com.edu.unifacef.productservicorest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MeuPrimeiroServicoRestApplicationTests {
+class ProductRestApplicationTests {
 
 	@Test
 	void contextLoads() {

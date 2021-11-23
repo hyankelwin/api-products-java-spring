@@ -1,4 +1,4 @@
-package com.edu.unifacef.meuprimeiroservicorest.models;
+package com.edu.unifacef.productservicorest.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

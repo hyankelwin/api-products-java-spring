@@ -1,6 +1,6 @@
-package com.edu.unifacef.meuprimeiroservicorest.controllers;
+package com.edu.unifacef.productservicorest.controllers;
 
-import com.edu.unifacef.meuprimeiroservicorest.models.ErrorResponse;
+import com.edu.unifacef.productservicorest.models.ErrorResponse;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

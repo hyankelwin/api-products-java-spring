@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.edu.unifacef</groupId>
-	<artifactId>meu-primeiro-servico-rest</artifactId>
+	<artifactId>product-servico-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>meu-primeiro-servico-rest</name>
-	<description>Meu primeiro serviço</description>
+	<name>product-servico-rest</name>
+	<description>API Product</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
